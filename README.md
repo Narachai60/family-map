@@ -53,15 +53,6 @@ Copy
 Edit
 http://localhost/family-map/
 🗂️ โครงสร้างไฟล์โปรเจกต์
-bash
-Copy
-Edit
-/
-├── api.php                  # จัดการคำขอ API
-├── config.php               # ตั้งค่าฐานข้อมูล
-├── house_management.sql     # ไฟล์ฐานข้อมูล
-├── index.php                # หน้าเริ่มต้นของระบบ
-└── README.md
 📄 License
 Distributed under the MIT License.
 
@@ -69,3 +60,12 @@ Distributed under the MIT License.
 Narachai60
 
 GitHub: maewongh
+Copy
+Edit
+   ```bash
+   ├── api.php                  # จัดการคำขอ API
+   ├── config.php               # ตั้งค่าฐานข้อมูล
+   ├── house_management.sql     # ไฟล์ฐานข้อมูล
+   ├── index.php                # หน้าเริ่มต้นของระบบ
+   └── README.md
+
